@@ -1,0 +1,1784 @@
+[
+  {
+    "name": "BÉBÉ",
+    "references": [
+      {
+        "name": "K831 - B-001",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_BLACK.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_BLACK.png",
+            "side": null
+          },
+          {
+            "name": "FUCHSIA",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_FUCHSIA.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_FUCHSIA.png",
+            "side": null
+          },
+          {
+            "name": "NAVY",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_NAVY.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_NAVY.png",
+            "side": null
+          },
+          {
+            "name": "OXFORDGREY",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_OXFORDGREY.png",
+            "back": null,
+            "side": null
+          },
+          {
+            "name": "PALEPINK",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_PALEPINK.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_PALEPINK.png",
+            "side": null
+          },
+          {
+            "name": "RED",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_RED.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_RED.png",
+            "side": null
+          },
+          {
+            "name": "SKYBLUE",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_SKYBLUE.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_SKYBLUE.png",
+            "side": null
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/BÉBÉ/K831 - B-001/PS_K831_WHITE.png",
+            "back": "/catalog/BÉBÉ/K831 - B-001/PS_K831-B_WHITE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "K837 - B-002",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_BLACK.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_BLACK.png",
+            "side": null
+          },
+          {
+            "name": "LIGHTSAND",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_LIGHTSAND.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_LIGHTSAND.png",
+            "side": null
+          },
+          {
+            "name": "NAVY",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_NAVY.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_NAVY.png",
+            "side": null
+          },
+          {
+            "name": "OXFORDGREY",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_OXFORDGREY.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_OXFORDGREY.png",
+            "side": null
+          },
+          {
+            "name": "SAGE",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_SAGE.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_SAGE.png",
+            "side": null
+          },
+          {
+            "name": "TERRACOTTARED",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_TERRACOTTARED.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_TERRACOTTARED.png",
+            "side": null
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/BÉBÉ/K837 - B-002/PS_K837_WHITE.png",
+            "back": "/catalog/BÉBÉ/K837 - B-002/PS_K837-B_WHITE.png",
+            "side": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ENFANT",
+    "references": [
+      {
+        "name": "K3027IC - E-003",
+        "colors": [
+          {
+            "name": "ASHHEATHER",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_ASHHEATHER.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_ASHHEATHER.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_ASHHEATHER.png"
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_BLACK.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_BLACK.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_BLACK.png"
+          },
+          {
+            "name": "FORESTGREEN",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_FORESTGREEN.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_FORESTGREEN.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_FORESTGREEN.png"
+          },
+          {
+            "name": "FUCHSIA",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_FUCHSIA.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_FUCHSIA.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_FUCHSIA.png"
+          },
+          {
+            "name": "ICEMINT",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_ICEMINT.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_ICEMINT.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_ICEMINT.png"
+          },
+          {
+            "name": "KELLYGREEN",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_KELLYGREEN.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_KELLYGREEN.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_KELLYGREEN.png"
+          },
+          {
+            "name": "LIGHTROYALBLUE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_LIGHTROYALBLUE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_LIGHTROYALBLUE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_LIGHTROYALBLUE.png"
+          },
+          {
+            "name": "LIGHTSAND",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_LIGHTSAND.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_LIGHTSAND.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_LIGHTSAND.png"
+          },
+          {
+            "name": "NAVY",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_NAVY.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_NAVY.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_NAVY.png"
+          },
+          {
+            "name": "ORANGE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_ORANGE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_ORANGE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_ORANGE.png"
+          },
+          {
+            "name": "OXFORDGREY",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_OXFORDGREY.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_OXFORDGREY.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_OXFORDGREY.png"
+          },
+          {
+            "name": "PALEPINK",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_PALEPINK.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_PALEPINK.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_PALEPINK.png"
+          },
+          {
+            "name": "RED",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_RED.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_RED.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_RED.png"
+          },
+          {
+            "name": "ROYALBLUE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_ROYALBLUE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_ROYALBLUE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_ROYALBLUE.png"
+          },
+          {
+            "name": "SAGE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_SAGE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_SAGE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_SAGE.png"
+          },
+          {
+            "name": "SKYBLUE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_SKYBLUE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_SKYBLUE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_SKYBLUE.png"
+          },
+          {
+            "name": "TROPICALBLUE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_TROPICALBLUE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_TROPICALBLUE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_TROPICALBLUE.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_WHITE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_WHITE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_WHITE.png"
+          },
+          {
+            "name": "WINE",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_WINE.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_WINE.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_WINE.png"
+          },
+          {
+            "name": "YELLOW",
+            "front": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC_YELLOW.png",
+            "back": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-B_YELLOW.png",
+            "side": "/catalog/ENFANT/K3027IC - E-003/PS_K3027IC-S_YELLOW.png"
+          }
+        ]
+      },
+      {
+        "name": "NS307 - E-001",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_BLACK.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_BLACK.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_BLACK.png"
+          },
+          {
+            "name": "DARKCHERRY",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_DARKCHERRY.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_DARKCHERRY.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_DARKCHERRY.png"
+          },
+          {
+            "name": "HIBISCUSRED",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_HIBISCUSRED.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_HIBISCUSRED.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_HIBISCUSRED.png"
+          },
+          {
+            "name": "MOONGREYHEATHER",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_MOONGREYHEATHER.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_MOONGREYHEATHER.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_MOONGREYHEATHER.png"
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_NAVYBLUE.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_NAVYBLUE.png",
+            "side": null
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_ORGANICKHAKI.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_ORGANICKHAKI.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "PEACOCKBLUE",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_PEACOCKBLUE.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_PEACOCKBLUE.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_PEACOCKBLUE.png"
+          },
+          {
+            "name": "PETALROSE",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_PETALROSE.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_PETALROSE.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_PETALROSE.png"
+          },
+          {
+            "name": "POPPYRED",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_POPPYRED.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_POPPYRED.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_POPPYRED.png"
+          },
+          {
+            "name": "RASPBERRYSORBET",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_RASPBERRYSORBET.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_RASPBERRYSORBET.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_RASPBERRYSORBET.png"
+          },
+          {
+            "name": "SEABLUE",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_SEABLUE.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_SEABLUE.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_SEABLUE.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/ENFANT/NS307 - E-001/PS_NS307_WHITE.png",
+            "back": "/catalog/ENFANT/NS307 - E-001/PS_NS307-B_WHITE.png",
+            "side": "/catalog/ENFANT/NS307 - E-001/PS_NS307-S_WHITE.png"
+          }
+        ]
+      },
+      {
+        "name": "NS340 - E-002",
+        "colors": [
+          {
+            "name": "ANTIQUEROSE",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_ANTIQUEROSE.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_ANTIQUEROSE.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_ANTIQUEROSE.png"
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_BLACK.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_BLACK.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_BLACK.png"
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_IVORY.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_IVORY.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_IVORY.png"
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_NAVYBLUE.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_NAVYBLUE.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_NAVYBLUE.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_ORGANICKHAKI.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_ORGANICKHAKI.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "WETSAND",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_WETSAND.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_WETSAND.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_WETSAND.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/ENFANT/NS340 - E-002/PS_NS340_WHITE.png",
+            "back": "/catalog/ENFANT/NS340 - E-002/PS_NS340-B_WHITE.png",
+            "side": "/catalog/ENFANT/NS340 - E-002/PS_NS340-S_WHITE.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FEMME",
+    "references": [
+      {
+        "name": "NS313 - F-004",
+        "colors": [
+          {
+            "name": "AQUAMARINE",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_AQUAMARINE.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_AQUAMARINE.png",
+            "side": null
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_BLACK.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_BLACK.png",
+            "side": null
+          },
+          {
+            "name": "CANDYROSE",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_CANDYROSE.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_CANDYROSE.png",
+            "side": null
+          },
+          {
+            "name": "CHERRYPURPLE",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_CHERRYPURPLE.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_CHERRYPURPLE.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_CHERRYPURPLE.png"
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_IVORY.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_IVORY.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_IVORY.png"
+          },
+          {
+            "name": "JADEGREEN",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_JADEGREEN.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_JADEGREEN.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_JADEGREEN.png"
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_NAVYBLUE.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_NAVYBLUE.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_NAVYBLUE.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_ORGANICKHAKI.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_ORGANICKHAKI.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "PAPRIKA",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_PAPRIKA.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_PAPRIKA.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_PAPRIKA.png"
+          },
+          {
+            "name": "PARMA",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_PARMA.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_PARMA.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_PARMA.png"
+          },
+          {
+            "name": "PEACOCKGREEN",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_PEACOCKGREEN.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_PEACOCKGREEN.png",
+            "side": "/catalog/FEMME/NS313 - F-004/PS_NS313-S_PEACOCKGREEN.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/FEMME/NS313 - F-004/PS_NS313_WHITE.png",
+            "back": "/catalog/FEMME/NS313 - F-004/PS_NS313-B_WHITE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS324 - F-003",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_BLACK.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_BLACK.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_BLACK.png"
+          },
+          {
+            "name": "DARKCHERRY",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_DARKCHERRY.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_DARKCHERRY.png",
+            "side": null
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_IVORY.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_IVORY.png",
+            "side": null
+          },
+          {
+            "name": "JADEGREEN",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_JADEGREEN.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_JADEGREEN.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_JADEGREEN.png"
+          },
+          {
+            "name": "MOONGREYHEATHER",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_MOONGREYHEATHER.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_MOONGREYHEATHER.png",
+            "side": null
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_NAVYBLUE.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_NAVYBLUE.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_NAVYBLUE.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_ORGANICKHAKI.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_ORGANICKHAKI.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "PEACOCKBLUE",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_PEACOCKBLUE.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_PEACOCKBLUE.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_PEACOCKBLUE.png"
+          },
+          {
+            "name": "PETALROSE",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_PETALROSE.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_PETALROSE.png",
+            "side": null
+          },
+          {
+            "name": "POPPYRED",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_POPPYRED.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_POPPYRED.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_POPPYRED.png"
+          },
+          {
+            "name": "RASPBERRYSORBET",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_RASPBERRYSORBET.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_RASPBERRYSORBET.png",
+            "side": null
+          },
+          {
+            "name": "SEABLUE",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_SEABLUE.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_SEABLUE.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_SEABLUE.png"
+          },
+          {
+            "name": "WETSAND",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_WETSAND.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_WETSAND.png",
+            "side": "/catalog/FEMME/NS324 - F-003/PS_NS324-S_WETSAND.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/FEMME/NS324 - F-003/PS_NS324_WHITE.png",
+            "back": "/catalog/FEMME/NS324 - F-003/PS_NS324-B_WHITE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS334 - F-006",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/FEMME/NS334 - F-006/PS_NS334_BLACK.png",
+            "back": "/catalog/FEMME/NS334 - F-006/PS_NS334-B_BLACK.png",
+            "side": null
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/FEMME/NS334 - F-006/PS_NS334_IVORY.png",
+            "back": "/catalog/FEMME/NS334 - F-006/PS_NS334-B_IVORY.png",
+            "side": null
+          },
+          {
+            "name": "JADEGREEN",
+            "front": "/catalog/FEMME/NS334 - F-006/PS_NS334_JADEGREEN.png",
+            "back": "/catalog/FEMME/NS334 - F-006/PS_NS334-B_JADEGREEN.png",
+            "side": null
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/FEMME/NS334 - F-006/PS_NS334_WHITE.png",
+            "back": "/catalog/FEMME/NS334 - F-006/PS_NS334-B_WHITE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS342 - F-001",
+        "colors": [
+          {
+            "name": "WASHEDCOALGREY",
+            "front": "/catalog/FEMME/NS342 - F-001/PS_NS342_WASHEDCOALGREY.png",
+            "back": "/catalog/FEMME/NS342 - F-001/PS_NS342-B_WASHEDCOALGREY.png",
+            "side": null
+          },
+          {
+            "name": "WASHEDIVORY",
+            "front": "/catalog/FEMME/NS342 - F-001/PS_NS342_WASHEDIVORY.png",
+            "back": "/catalog/FEMME/NS342 - F-001/PS_NS342-B_WASHEDIVORY.png",
+            "side": null
+          },
+          {
+            "name": "WASHEDMINERALGREY",
+            "front": "/catalog/FEMME/NS342 - F-001/PS_NS342_WASHEDMINERALGREY.png",
+            "back": "/catalog/FEMME/NS342 - F-001/PS_NS342-B_WASHEDMINERALGREY.png",
+            "side": "/catalog/FEMME/NS342 - F-001/PS_NS342-S_WASHEDMINERALGREY.png"
+          },
+          {
+            "name": "WASHEDORGANICKHAKI",
+            "front": "/catalog/FEMME/NS342 - F-001/PS_NS342_WASHEDORGANICKHAKI.png",
+            "back": "/catalog/FEMME/NS342 - F-001/PS_NS342-B_WASHEDORGANICKHAKI.png",
+            "side": null
+          },
+          {
+            "name": "WASHEDPAPRIKA",
+            "front": "/catalog/FEMME/NS342 - F-001/PS_NS342_WASHEDPAPRIKA.png",
+            "back": "/catalog/FEMME/NS342 - F-001/PS_NS342-B_WASHEDPAPRIKA.png",
+            "side": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HOMME",
+    "references": [
+      {
+        "name": "CGTU01T - H-019",
+        "colors": []
+      },
+      {
+        "name": "K3022IC - H-011",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_BLACK.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_BLACK.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_BLACK.png"
+          },
+          {
+            "name": "DARKKHAKI",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_DARKKHAKI.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_DARKKHAKI.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_DARKKHAKI.png"
+          },
+          {
+            "name": "ICEMINT",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_ICEMINT.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_ICEMINT.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_ICEMINT.png"
+          },
+          {
+            "name": "LIGHTSAND",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_LIGHTSAND.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_LIGHTSAND.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_LIGHTSAND.png"
+          },
+          {
+            "name": "NAVY",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_NAVY.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_NAVY.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_NAVY.png"
+          },
+          {
+            "name": "OXFORDGREY",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_OXFORDGREY.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_OXFORDGREY.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_OXFORDGREY.png"
+          },
+          {
+            "name": "RED",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_RED.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_RED.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_RED.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC_WHITE.png",
+            "back": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-B_WHITE.png",
+            "side": "/catalog/HOMME/K3022IC - H-011/PS_K3022IC-S_WHITE.png"
+          }
+        ]
+      },
+      {
+        "name": "K3025IC H-014",
+        "colors": []
+      },
+      {
+        "name": "K3028IC",
+        "colors": [
+          {
+            "name": "ASHHEATHER",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_ASHHEATHER.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_ASHHEATHER.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_ASHHEATHER.png"
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_BLACK.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_BLACK.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_BLACK.png"
+          },
+          {
+            "name": "DARKGREY",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_DARKGREY.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_DARKGREY.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_DARKGREY.png"
+          },
+          {
+            "name": "FORESTGREEN",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_FORESTGREEN.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_FORESTGREEN.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_FORESTGREEN.png"
+          },
+          {
+            "name": "LIGHTROYALBLUE",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_LIGHTROYALBLUE.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_LIGHTROYALBLUE.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_LIGHTROYALBLUE.png"
+          },
+          {
+            "name": "LIME",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_LIME.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_LIME.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_LIME.png"
+          },
+          {
+            "name": "NAVY",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_NAVY.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_NAVY.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_NAVY.png"
+          },
+          {
+            "name": "ORANGE",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_ORANGE.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_ORANGE.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_ORANGE.png"
+          },
+          {
+            "name": "OXFORDGREY",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_OXFORDGREY.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_OXFORDGREY.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_OXFORDGREY.png"
+          },
+          {
+            "name": "RED",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_RED.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_RED.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_RED.png"
+          },
+          {
+            "name": "TROPICALBLUE",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_TROPICALBLUE.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_TROPICALBLUE.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_TROPICALBLUE.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_WHITE.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_WHITE.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_WHITE.png"
+          },
+          {
+            "name": "WINE",
+            "front": "/catalog/HOMME/K3028IC/PS_K3028IC_WINE.png",
+            "back": "/catalog/HOMME/K3028IC/PS_K3028IC-B_WINE.png",
+            "side": "/catalog/HOMME/K3028IC/PS_K3028IC-S_WINE.png"
+          }
+        ]
+      },
+      {
+        "name": "K3032IC H-018",
+        "colors": []
+      },
+      {
+        "name": "K357 - H-013",
+        "colors": [
+          {
+            "name": "ASHHEATHER",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_ASHHEATHER.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_ASHHEATHER.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_ASHHEATHER.png"
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_BLACK.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_BLACK.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_BLACK.png"
+          },
+          {
+            "name": "CHOCOLATE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_CHOCOLATE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_CHOCOLATE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_CHOCOLATE.png"
+          },
+          {
+            "name": "DARKGREY",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_DARKGREY.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_DARKGREY.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_DARKGREY.png"
+          },
+          {
+            "name": "DARKKHAKI",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_DARKKHAKI.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_DARKKHAKI.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_DARKKHAKI.png"
+          },
+          {
+            "name": "FORESTGREEN",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_FORESTGREEN.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_FORESTGREEN.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_FORESTGREEN.png"
+          },
+          {
+            "name": "FUCHSIA",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_FUCHSIA.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_FUCHSIA.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_FUCHSIA.png"
+          },
+          {
+            "name": "KELLYGREEN",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_KELLYGREEN.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_KELLYGREEN.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_KELLYGREEN.png"
+          },
+          {
+            "name": "LIGHTROYALBLUE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_LIGHTROYALBLUE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_LIGHTROYALBLUE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_LIGHTROYALBLUE.png"
+          },
+          {
+            "name": "LIGHTSAND",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_LIGHTSAND.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_LIGHTSAND.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_LIGHTSAND.png"
+          },
+          {
+            "name": "LIME",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_LIME.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_LIME.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_LIME.png"
+          },
+          {
+            "name": "NAVY",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_NAVY.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_NAVY.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_NAVY.png"
+          },
+          {
+            "name": "ORANGE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_ORANGE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_ORANGE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_ORANGE.png"
+          },
+          {
+            "name": "OXFORDGREY",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_OXFORDGREY.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_OXFORDGREY.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_OXFORDGREY.png"
+          },
+          {
+            "name": "PURPLE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_PURPLE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_PURPLE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_PURPLE.png"
+          },
+          {
+            "name": "RED",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_RED.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_RED.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_RED.png"
+          },
+          {
+            "name": "ROYALBLUE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_ROYALBLUE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_ROYALBLUE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_ROYALBLUE.png"
+          },
+          {
+            "name": "SKYBLUE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_SKYBLUE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_SKYBLUE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_SKYBLUE.png"
+          },
+          {
+            "name": "TROPICALBLUE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_TROPICALBLUE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_TROPICALBLUE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_TROPICALBLUE.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_WHITE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_WHITE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_WHITE.png"
+          },
+          {
+            "name": "WINE",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_WINE.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_WINE.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_WINE.png"
+          },
+          {
+            "name": "YELLOW",
+            "front": "/catalog/HOMME/K357 - H-013/PS_K357_YELLOW.png",
+            "back": "/catalog/HOMME/K357 - H-013/PS_K357-B_YELLOW.png",
+            "side": "/catalog/HOMME/K357 - H-013/PS_K357-S_YELLOW.png"
+          }
+        ]
+      },
+      {
+        "name": "NS300 - H-001",
+        "colors": [
+          {
+            "name": "ADRIATICBLUE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_ADRIATICBLUE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_ADRIATICBLUE.png",
+            "side": null
+          },
+          {
+            "name": "ALMONDGREEN",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_ALMONDGREEN.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_ALMONDGREEN.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_ALMONDGREEN.png"
+          },
+          {
+            "name": "AMAZONGREEN",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_AMAZONGREEN.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_AMAZONGREEN.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_AMAZONGREEN.png"
+          },
+          {
+            "name": "AMAZONGREENHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_AMAZONGREENHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_AMAZONGREENHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_AMAZONGREENHEATHER.png"
+          },
+          {
+            "name": "APRICOT",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_APRICOT.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_APRICOT.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_APRICOT.png"
+          },
+          {
+            "name": "AQUAMARINE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_AQUAMARINE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_AQUAMARINE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_AQUAMARINE.png"
+          },
+          {
+            "name": "BEIGECREAM",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_BEIGECREAM.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_BEIGECREAM.png",
+            "side": null
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_BLACK.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_BLACK.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_BLACK.png"
+          },
+          {
+            "name": "BLUESAPPHIRE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_BLUESAPPHIRE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_BLUESAPPHIRE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_BLUESAPPHIRE.png"
+          },
+          {
+            "name": "BUTTERNUT",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_BUTTERNUT.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_BUTTERNUT.png",
+            "side": null
+          },
+          {
+            "name": "CELADONGREEN",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_CELADONGREEN.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_CELADONGREEN.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_CELADONGREEN.png"
+          },
+          {
+            "name": "CHERRYPURPLE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_CHERRYPURPLE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_CHERRYPURPLE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_CHERRYPURPLE.png"
+          },
+          {
+            "name": "CLEMENTINEHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_CLEMENTINEHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_CLEMENTINEHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_CLEMENTINEHEATHER.png"
+          },
+          {
+            "name": "COOLBLUE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_COOLBLUE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_COOLBLUE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_COOLBLUE.png"
+          },
+          {
+            "name": "COOLBLUEHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_COOLBLUEHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_COOLBLUEHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_COOLBLUEHEATHER.png"
+          },
+          {
+            "name": "CURCUMA",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_CURCUMA.png",
+            "back": null,
+            "side": null
+          },
+          {
+            "name": "DARKCAMEL",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_DARKCAMEL.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_DARKCAMEL.png",
+            "side": null
+          },
+          {
+            "name": "DARKCHERRY",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_DARKCHERRY.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_DARKCHERRY.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_DARKCHERRY.png"
+          },
+          {
+            "name": "DEEPCHOCOLATE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_DEEPCHOCOLATE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_DEEPCHOCOLATE.png",
+            "side": null
+          },
+          {
+            "name": "DEEPPLUM",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_DEEPPLUM.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_DEEPPLUM.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_DEEPPLUM.png"
+          },
+          {
+            "name": "FORESTGREEN",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_FORESTGREEN.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_FORESTGREEN.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_FORESTGREEN.png"
+          },
+          {
+            "name": "GREENFIELD",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_GREENFIELD.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_GREENFIELD.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_GREENFIELD.png"
+          },
+          {
+            "name": "GRIZZLYBROWNHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_GRIZZLYBROWNHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_GRIZZLYBROWNHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_GRIZZLYBROWNHEATHER.png"
+          },
+          {
+            "name": "HIBISCUSRED",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_HIBISCUSRED.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_HIBISCUSRED.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_HIBISCUSRED.png"
+          },
+          {
+            "name": "IRONGREY",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_IRONGREY.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_IRONGREY.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_IRONGREY.png"
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_IVORY.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_IVORY.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_IVORY.png"
+          },
+          {
+            "name": "JADEGREEN",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_JADEGREEN.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_JADEGREEN.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_JADEGREEN.png"
+          },
+          {
+            "name": "LEMONCITRUS",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_LEMONCITRUS.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_LEMONCITRUS.png",
+            "side": null
+          },
+          {
+            "name": "LIGHTOLIVEGREEN",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_LIGHTOLIVEGREEN.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_LIGHTOLIVEGREEN.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_LIGHTOLIVEGREEN.png"
+          },
+          {
+            "name": "LIGHTTURQUOISE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_LIGHTTURQUOISE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_LIGHTTURQUOISE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_LIGHTTURQUOISE.png"
+          },
+          {
+            "name": "MINERALGREY",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_MINERALGREY.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_MINERALGREY.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_MINERALGREY.png"
+          },
+          {
+            "name": "MOONGREYHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_MOONGREYHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_MOONGREYHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_MOONGREYHEATHER.png"
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_NAVYBLUE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_NAVYBLUE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_NAVYBLUE.png"
+          },
+          {
+            "name": "NAVYBLUEHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_NAVYBLUEHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_NAVYBLUEHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_NAVYBLUEHEATHER.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_ORGANICKHAKI.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_ORGANICKHAKI.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "ORGANICKHAKIHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_ORGANICKHAKIHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_ORGANICKHAKIHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_ORGANICKHAKIHEATHER.png"
+          },
+          {
+            "name": "PAPRIKA",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PAPRIKA.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PAPRIKA.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PAPRIKA.png"
+          },
+          {
+            "name": "PARMA",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PARMA.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PARMA.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PARMA.png"
+          },
+          {
+            "name": "PEACH",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PEACH.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PEACH.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PEACH.png"
+          },
+          {
+            "name": "PEACOCKBLUE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PEACOCKBLUE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PEACOCKBLUE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PEACOCKBLUE.png"
+          },
+          {
+            "name": "PEARLROSE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PEARLROSE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PEARLROSE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PEARLROSE.png"
+          },
+          {
+            "name": "PETALROSE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PETALROSE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PETALROSE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PETALROSE.png"
+          },
+          {
+            "name": "PINEAPPLE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_PINEAPPLE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_PINEAPPLE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_PINEAPPLE.png"
+          },
+          {
+            "name": "POPPYRED",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_POPPYRED.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_POPPYRED.png",
+            "side": null
+          },
+          {
+            "name": "SEABLUE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_SEABLUE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_SEABLUE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_SEABLUE.png"
+          },
+          {
+            "name": "SIENNA",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_SIENNA.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_SIENNA.png",
+            "side": null
+          },
+          {
+            "name": "SUNYELLOW",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_SUNYELLOW.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_SUNYELLOW.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_SUNYELLOW.png"
+          },
+          {
+            "name": "VOLCANOGREYHEATHER",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_VOLCANOGREYHEATHER.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_VOLCANOGREYHEATHER.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_VOLCANOGREYHEATHER.png"
+          },
+          {
+            "name": "WETSAND",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_WETSAND.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_WETSAND.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_WETSAND.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/NS300 - H-001/PS_NS300_WHITE.png",
+            "back": "/catalog/HOMME/NS300 - H-001/PS_NS300-B_WHITE.png",
+            "side": "/catalog/HOMME/NS300 - H-001/PS_NS300-S_WHITE.png"
+          }
+        ]
+      },
+      {
+        "name": "NS305 -H-002",
+        "colors": [
+          {
+            "name": "ANTIQUEROSE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_ANTIQUEROSE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_ANTIQUEROSE.png",
+            "side": null
+          },
+          {
+            "name": "APPLEBLOSSOM",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_APPLEBLOSSOM.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_APPLEBLOSSOM.png",
+            "side": null
+          },
+          {
+            "name": "AQUAMARINE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_AQUAMARINE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_AQUAMARINE.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_AQUAMARINE.png"
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_BLACK.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_BLACK.png",
+            "side": null
+          },
+          {
+            "name": "BLUESAPPHIRE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_BLUESAPPHIRE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_BLUESAPPHIRE.png",
+            "side": null
+          },
+          {
+            "name": "BROOKGREEN",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_BROOKGREEN.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_BROOKGREEN.png",
+            "side": null
+          },
+          {
+            "name": "BURNTBRICK",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_BURNTBRICK.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_BURNTBRICK.png",
+            "side": null
+          },
+          {
+            "name": "CHERRYPURPLE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_CHERRYPURPLE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_CHERRYPURPLE.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_CHERRYPURPLE.png"
+          },
+          {
+            "name": "CURCUMA",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_CURCUMA.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_CURCUMA.png",
+            "side": null
+          },
+          {
+            "name": "DARKCHERRY",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_DARKCHERRY.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_DARKCHERRY.png",
+            "side": null
+          },
+          {
+            "name": "DRIFTWOOD",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_DRIFTWOOD.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_DRIFTWOOD.png",
+            "side": null
+          },
+          {
+            "name": "FORESTGREEN",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_FORESTGREEN.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_FORESTGREEN.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_FORESTGREEN.png"
+          },
+          {
+            "name": "GEMSTONEGREEN",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_GEMSTONEGREEN.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_GEMSTONEGREEN.png",
+            "side": null
+          },
+          {
+            "name": "HIBISCUSRED",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_HIBISCUSRED.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_HIBISCUSRED.png",
+            "side": null
+          },
+          {
+            "name": "IRONGREY",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_IRONGREY.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_IRONGREY.png",
+            "side": null
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_IVORY.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_IVORY.png",
+            "side": null
+          },
+          {
+            "name": "JADEGREEN",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_JADEGREEN.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_JADEGREEN.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_JADEGREEN.png"
+          },
+          {
+            "name": "LIGHTCORAL",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_LIGHTCORAL.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_LIGHTCORAL.png",
+            "side": null
+          },
+          {
+            "name": "MINERALGREY",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_MINERALGREY.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_MINERALGREY.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_MINERALGREY.png"
+          },
+          {
+            "name": "MOONGREYHEATHER",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_MOONGREYHEATHER.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_MOONGREYHEATHER.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_MOONGREYHEATHER.png"
+          },
+          {
+            "name": "MOSSGREEN",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_MOSSGREEN.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_MOSSGREEN.png",
+            "side": null
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_NAVYBLUE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_NAVYBLUE.png",
+            "side": null
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_ORGANICKHAKI.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_ORGANICKHAKI.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "PARMA",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_PARMA.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_PARMA.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_PARMA.png"
+          },
+          {
+            "name": "PEACOCKBLUE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_PEACOCKBLUE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_PEACOCKBLUE.png",
+            "side": null
+          },
+          {
+            "name": "PEACOCKGREEN",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_PEACOCKGREEN.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_PEACOCKGREEN.png",
+            "side": null
+          },
+          {
+            "name": "PINEAPPLE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_PINEAPPLE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_PINEAPPLE.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_PINEAPPLE.png"
+          },
+          {
+            "name": "POPPYRED",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_POPPYRED.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_POPPYRED.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_POPPYRED.png"
+          },
+          {
+            "name": "RAWNATURAL",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_RAWNATURAL.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_RAWNATURAL.png",
+            "side": null
+          },
+          {
+            "name": "SEABLUE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_SEABLUE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_SEABLUE.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_SEABLUE.png"
+          },
+          {
+            "name": "SUNYELLOW",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_SUNYELLOW.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_SUNYELLOW.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_SUNYELLOW.png"
+          },
+          {
+            "name": "TANGERINE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_TANGERINE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_TANGERINE.png",
+            "side": null
+          },
+          {
+            "name": "WETSAND",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_WETSAND.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_WETSAND.png",
+            "side": "/catalog/HOMME/NS305 -H-002/PS_NS305-S_WETSAND.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/NS305 -H-002/PS_NS305_WHITE.png",
+            "back": "/catalog/HOMME/NS305 -H-002/PS_NS305-B_WHITE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS308 - H-004",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_BLACK.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_BLACK.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_BLACK.png"
+          },
+          {
+            "name": "BURNTBRICK",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_BURNTBRICK.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_BURNTBRICK.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_BURNTBRICK.png"
+          },
+          {
+            "name": "IRONGREY",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_IRONGREY.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_IRONGREY.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_IRONGREY.png"
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_IVORY.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_IVORY.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_IVORY.png"
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_NAVYBLUE.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_NAVYBLUE.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_NAVYBLUE.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_ORGANICKHAKI.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_ORGANICKHAKI.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "RAWNATURAL",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_RAWNATURAL.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_RAWNATURAL.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_RAWNATURAL.png"
+          },
+          {
+            "name": "WETSAND",
+            "front": "/catalog/HOMME/NS308 - H-004/PS_NS308_WETSAND.png",
+            "back": "/catalog/HOMME/NS308 - H-004/PS_NS308-B_WETSAND.png",
+            "side": "/catalog/HOMME/NS308 - H-004/PS_NS308-S_WETSAND.png"
+          }
+        ]
+      },
+      {
+        "name": "NS332 - H-003",
+        "colors": [
+          {
+            "name": "AQUAMARINE",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_AQUAMARINE.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_AQUAMARINE.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_AQUAMARINE.png"
+          },
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_BLACK.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_BLACK.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_BLACK.png"
+          },
+          {
+            "name": "DRIFTWOOD",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_DRIFTWOOD.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_DRIFTWOOD.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_DRIFTWOOD.png"
+          },
+          {
+            "name": "IRONGREY",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_IRONGREY.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_IRONGREY.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_IRONGREY.png"
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_IVORY.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_IVORY.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_IVORY.png"
+          },
+          {
+            "name": "NAVYBLUE",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_NAVYBLUE.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_NAVYBLUE.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_NAVYBLUE.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_ORGANICKHAKI.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_ORGANICKHAKI.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "PEACOCKGREEN",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_PEACOCKGREEN.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_PEACOCKGREEN.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_PEACOCKGREEN.png"
+          },
+          {
+            "name": "TOFFEE",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_TOFFEE.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_TOFFEE.png",
+            "side": "/catalog/HOMME/NS332 - H-003/PS_NS332-S_TOFFEE.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/NS332 - H-003/PS_NS332_WHITE.png",
+            "back": "/catalog/HOMME/NS332 - H-003/PS_NS332-B_WHITE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS336 - H-008",
+        "colors": [
+          {
+            "name": "WASHEDCREAMCOFFEE",
+            "front": "/catalog/HOMME/NS336 - H-008/PS_NS336_WASHEDCREAMCOFFEE.png",
+            "back": "/catalog/HOMME/NS336 - H-008/PS_NS336-B_WASHEDCREAMCOFFEE.png",
+            "side": null
+          },
+          {
+            "name": "WASHEDNAVYBLUE",
+            "front": "/catalog/HOMME/NS336 - H-008/PS_NS336_WASHEDNAVYBLUE.png",
+            "back": "/catalog/HOMME/NS336 - H-008/PS_NS336-B_WASHEDNAVYBLUE.png",
+            "side": null
+          },
+          {
+            "name": "WASHEDSIENNA",
+            "front": "/catalog/HOMME/NS336 - H-008/PS_NS336_WASHEDSIENNA.png",
+            "back": "/catalog/HOMME/NS336 - H-008/PS_NS336-B_WASHEDSIENNA.png",
+            "side": null
+          },
+          {
+            "name": "WASHEDSLATE",
+            "front": "/catalog/HOMME/NS336 - H-008/PS_NS336_WASHEDSLATE.png",
+            "back": "/catalog/HOMME/NS336 - H-008/PS_NS336-B_WASHEDSLATE.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS345 - H-005",
+        "colors": [
+          {
+            "name": "DIPDYEAQUAMARINE",
+            "front": "/catalog/HOMME/NS345 - H-005/PS_NS345_DIPDYEAQUAMARINE.png",
+            "back": "/catalog/HOMME/NS345 - H-005/PS_NS345-B_DIPDYEAQUAMARINE.png",
+            "side": null
+          },
+          {
+            "name": "DIPDYEBLACK",
+            "front": "/catalog/HOMME/NS345 - H-005/PS_NS345_DIPDYEBLACK.png",
+            "back": "/catalog/HOMME/NS345 - H-005/PS_NS345-B_DIPDYEBLACK.png",
+            "side": "/catalog/HOMME/NS345 - H-005/PS_NS345-S_DIPDYEBLACK.png"
+          },
+          {
+            "name": "DIPDYEJADEGREEN",
+            "front": "/catalog/HOMME/NS345 - H-005/PS_NS345_DIPDYEJADEGREEN.png",
+            "back": "/catalog/HOMME/NS345 - H-005/PS_NS345-B_DIPDYEJADEGREEN.png",
+            "side": null
+          },
+          {
+            "name": "DIPDYENAVYBLUE",
+            "front": "/catalog/HOMME/NS345 - H-005/PS_NS345_DIPDYENAVYBLUE.png",
+            "back": "/catalog/HOMME/NS345 - H-005/PS_NS345-B_DIPDYENAVYBLUE.png",
+            "side": "/catalog/HOMME/NS345 - H-005/PS_NS345-S_DIPDYENAVYBLUE.png"
+          },
+          {
+            "name": "DIPDYEPETALROSE",
+            "front": "/catalog/HOMME/NS345 - H-005/PS_NS345_DIPDYEPETALROSE.png",
+            "back": "/catalog/HOMME/NS345 - H-005/PS_NS345-B_DIPDYEPETALROSE.png",
+            "side": null
+          },
+          {
+            "name": "DIPDYEWETSAND",
+            "front": "/catalog/HOMME/NS345 - H-005/PS_NS345_DIPDYEWETSAND.png",
+            "back": "/catalog/HOMME/NS345 - H-005/PS_NS345-B_DIPDYEWETSAND.png",
+            "side": null
+          }
+        ]
+      },
+      {
+        "name": "NS352 - H-021",
+        "colors": [
+          {
+            "name": "BLACK",
+            "front": "/catalog/HOMME/NS352 - H-021/PS_NS352_BLACK.png",
+            "back": "/catalog/HOMME/NS352 - H-021/PS_NS352-B_BLACK.png",
+            "side": "/catalog/HOMME/NS352 - H-021/PS_NS352-S_BLACK.png"
+          },
+          {
+            "name": "DRIFTWOOD",
+            "front": "/catalog/HOMME/NS352 - H-021/PS_NS352_DRIFTWOOD.png",
+            "back": "/catalog/HOMME/NS352 - H-021/PS_NS352-B_DRIFTWOOD.png",
+            "side": "/catalog/HOMME/NS352 - H-021/PS_NS352-S_DRIFTWOOD.png"
+          },
+          {
+            "name": "IVORY",
+            "front": "/catalog/HOMME/NS352 - H-021/PS_NS352_IVORY.png",
+            "back": "/catalog/HOMME/NS352 - H-021/PS_NS352-B_IVORY.png",
+            "side": "/catalog/HOMME/NS352 - H-021/PS_NS352-S_IVORY.png"
+          },
+          {
+            "name": "ORGANICKHAKI",
+            "front": "/catalog/HOMME/NS352 - H-021/PS_NS352_ORGANICKHAKI.png",
+            "back": "/catalog/HOMME/NS352 - H-021/PS_NS352-B_ORGANICKHAKI.png",
+            "side": "/catalog/HOMME/NS352 - H-021/PS_NS352-S_ORGANICKHAKI.png"
+          },
+          {
+            "name": "PAPRIKA",
+            "front": "/catalog/HOMME/NS352 - H-021/PS_NS352_PAPRIKA.png",
+            "back": "/catalog/HOMME/NS352 - H-021/PS_NS352-B_PAPRIKA.png",
+            "side": "/catalog/HOMME/NS352 - H-021/PS_NS352-S_PAPRIKA.png"
+          },
+          {
+            "name": "WHITE",
+            "front": "/catalog/HOMME/NS352 - H-021/PS_NS352_WHITE.png",
+            "back": "/catalog/HOMME/NS352 - H-021/PS_NS352-B_WHITE.png",
+            "side": "/catalog/HOMME/NS352 - H-021/PS_NS352-S_WHITE.png"
+          }
+        ]
+      },
+      {
+        "name": "Paragon - L-001",
+        "colors": [
+          {
+            "name": "Aluminum",
+            "front": "/catalog/HOMME/Paragon - L-001/Aluminum_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Aluminum_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Aqua Blue",
+            "front": "/catalog/HOMME/Paragon - L-001/Aqua_Blue_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Aqua_Blue_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Bimini Blue",
+            "front": "/catalog/HOMME/Paragon - L-001/Bimini_Blue_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Bimini_Blue_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Black",
+            "front": "/catalog/HOMME/Paragon - L-001/Black_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Black_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Blue Mist",
+            "front": "/catalog/HOMME/Paragon - L-001/Blue_Mist_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Blue_Mist_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Coral",
+            "front": "/catalog/HOMME/Paragon - L-001/Coral_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Coral_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Coyote Brown",
+            "front": "/catalog/HOMME/Paragon - L-001/Coyote_Brown_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Coyote_Brown_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Graphite",
+            "front": "/catalog/HOMME/Paragon - L-001/Graphite_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Graphite_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Heather Grey",
+            "front": "/catalog/HOMME/Paragon - L-001/Heather_Grey_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Heather_Grey_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Limeade",
+            "front": "/catalog/HOMME/Paragon - L-001/Limeade_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Limeade_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Medium Grey",
+            "front": "/catalog/HOMME/Paragon - L-001/Medium_Grey_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Medium_Grey_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Mint Green",
+            "front": "/catalog/HOMME/Paragon - L-001/Mint_Green_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Mint_Green_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Navy",
+            "front": "/catalog/HOMME/Paragon - L-001/Navy_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Navy_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Neon Lime",
+            "front": "/catalog/HOMME/Paragon - L-001/Neon_Lime_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Neon_Lime_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Neon Orange",
+            "front": "/catalog/HOMME/Paragon - L-001/Neon_Orange_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Neon_Orange_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Olive Green",
+            "front": "/catalog/HOMME/Paragon - L-001/Olive_Green_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Olive_Green_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Pale Yellow",
+            "front": "/catalog/HOMME/Paragon - L-001/Pale_Yellow_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Pale_Yellow_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Peach",
+            "front": "/catalog/HOMME/Paragon - L-001/Peach_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Peach_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Red",
+            "front": "/catalog/HOMME/Paragon - L-001/Red_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Red_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Royal",
+            "front": "/catalog/HOMME/Paragon - L-001/Royal_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Royal_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Safety Green",
+            "front": "/catalog/HOMME/Paragon - L-001/Safety_Green_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Safety_Green_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Sand",
+            "front": "/catalog/HOMME/Paragon - L-001/Sand_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Sand_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Turquoise",
+            "front": "/catalog/HOMME/Paragon - L-001/Turquoise_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Turquoise_back.jpg",
+            "side": null
+          },
+          {
+            "name": "White",
+            "front": "/catalog/HOMME/Paragon - L-001/White_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/White_back.jpg",
+            "side": null
+          },
+          {
+            "name": "Woodland Brown",
+            "front": "/catalog/HOMME/Paragon - L-001/Woodland_Brown_front.jpg",
+            "back": "/catalog/HOMME/Paragon - L-001/Woodland_Brown_back.jpg",
+            "side": null
+          }
+        ]
+      }
+    ]
+  }
+]
